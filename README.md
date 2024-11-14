@@ -1,4 +1,4 @@
-# EX-NO-9-RSA-Algorithm
+# 9-RSA-Algorithm
 # DATE: 
 ## AIM:
 To Implement RSA Encryption Algorithm in Cryptography
